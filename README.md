@@ -11,7 +11,9 @@ ________________________________________________________________________________
 
 ___________________________________________________________________________________________________________________________________
  Tech Stack
+
 🧠 Core Technologies
+
 Python – Main programming language for data processing and modeling
 
 NumPy / Pandas – Numerical computations and data manipulation
