@@ -13,7 +13,21 @@ ________________________________________________________________________________
 .Languages: C++, Python, JavaScript, SQL  
 .Frontend: HTML5, CSS3, React.js, Bootstrap  
 .Database: MySQL, MongoDB ,Django 
-.Tools:Git, GitHub, VS Code  
+.Tools:Git, GitHub, VS Code 
+.ML/DL:TensorFlow, Keras, NumPy, Matplotlib
+_____________________________________________________________________________________________________________________________________
+
+📂 Projects
+_____________________________________________________________________________________________________________________________________
+ **🧠 EEG-Based Human Emotion Recognition**  
+  Developed a deep learning model to classify human emotions using EEG signal data.  
+  Utilized CNN and LSTM architectures for feature extraction and temporal pattern recognition.  
+  Tools used: Python, Keras, NumPy, DEAP dataset, Matplotlib  
+  📎 View Project:https://github.com/Nandinireddy23/EEG-BASED-HUMAN-EMOTION-RECOGNITION-USING-DEEP-LEARNING
+
+
+
+
 
 
 
