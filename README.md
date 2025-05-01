@@ -10,48 +10,48 @@ ________________________________________________________________________________
 
 
 ___________________________________________________________________________________________________________________________________
- Tech Stack
+ **🛠️Tech Stack**
 
-🧠 Core Technologies
+**🧠 Core Technologies**
 
-Python – Main programming language for data processing and modeling
+.**Python**– Main programming language for data processing and modeling
 
-NumPy / Pandas – Numerical computations and data manipulation
+.**NumPy / Pandas** – Numerical computations and data manipulation
 
-Matplotlib / Seaborn – Data visualization and signal plotting
+.**Matplotlib / Seaborn** – Data visualization and signal plotting
 
-🤖 Machine Learning & Deep Learning
-TensorFlow / Keras – Model development and training (CNN, LSTM)
+**🤖 Machine Learning & Deep Learning**
+.**TensorFlow / Keras** – Model development and training (CNN, LSTM)
 
-Scikit-learn – Preprocessing, metrics, and traditional ML baselines
+.**Scikit-learn** – Preprocessing, metrics, and traditional ML baselines
 
-OpenCV – (if used for visual outputs or emotion indicators)
+.**OpenCV** – (if used for visual outputs or emotion indicators)
 
-MNE / SciPy – EEG signal analysis and preprocessing (optional but common)
+.**MNE / SciPy** – EEG signal analysis and preprocessing (optional but common)
 
-📊 Dataset
-DEAP Dataset – Publicly available EEG dataset for emotion recognition
+**📊 Dataset**
+.**DEAP Dataset** – Publicly available EEG dataset for emotion recognition
 
-🧪 Model Types
-Convolutional Neural Networks (CNN) – For spatial feature extraction
+**🧪 Model Types**
+.**Convolutional Neural Networks (CNN)** – For spatial feature extraction
 
-Long Short-Term Memory (LSTM) – For temporal signal interpretation
+.**Long Short-Term Memory (LSTM)** – For temporal signal interpretation
 
-🧰 Tools & Environment
-Jupyter Notebook / Google Colab – Code development and experimentation
+**🧰 Tools & Environment**
+.**Jupyter Notebook / Google Colab** – Code development and experimentation
 
-Git / GitHub – Version control and project collaboration
+.**Git / GitHub** – Version control and project collaboration
 
-Anaconda / virtualenv – Environment management
+.**Anaconda / virtualenv** – Environment management
 _____________________________________________________________________________________________________________________________________
 
-📂 Projects
+**📂 Projects**
 _____________________________________________________________________________________________________________________________________
  **🧠 EEG-Based Human Emotion Recognition**  
   Developed a deep learning model to classify human emotions using EEG signal data.  
   Utilized CNN and LSTM architectures for feature extraction and temporal pattern recognition.  
   Tools used: Python, Keras, NumPy, DEAP dataset, Matplotlib  
-  📎 View Project:https://github.com/Nandinireddy23/EEG-BASED-HUMAN-EMOTION-RECOGNITION-USING-DEEP-LEARNING
+  **📎 View Project**:https://github.com/Nandinireddy23/EEG-BASED-HUMAN-EMOTION-RECOGNITION-USING-DEEP-LEARNING
 
 
 
